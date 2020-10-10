@@ -1,0 +1,3 @@
+Clown Model: 5,382 Tris
+Floor Asset: 12 Tris
+Wall Asset: 12 Tris
